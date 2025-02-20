@@ -10,3 +10,5 @@ This project was developed as part of my Master’s in Software Engineering cour
 - 3D-Printed Chassis – Designed modular, customizable housing to keep hardware costs low.
 - Real-Time Processing – Implements Raspberry Pi for decision-making and Arduino for motor control to ensure seamless navigation.
 - Scalable & Open-Source – The system is modular, allowing for enhancements like LiDAR integration or improved AI-based decision-making.
+
+[Project Report](https://drive.google.com/file/d/1gRuoTJpoaRQJBFngFX4q5FAcvPj_fIP9/view?usp=sharing)
